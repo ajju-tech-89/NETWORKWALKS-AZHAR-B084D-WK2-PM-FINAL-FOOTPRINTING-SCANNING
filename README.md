@@ -1,10 +1,6 @@
 
 # Cybersecurity & Ethical Hacking – Week 2 Project
 
-<p align="center">
-  <strong>NETWORKWALKS | Cybersecurity Internship</strong>
-</p>
-
 ## 📌 Project Overview
 
 This repository contains my Week 2 practical work for the Cybersecurity & Ethical Hacking internship with **Networkwalks**.
@@ -161,7 +157,7 @@ I would like to thank **Waqas Karim CCIE** and the **Networkwalks** team for pro
 ---
 
 <p align="center">
-  <strong>Week 2 | Cybersecurity & Ethical Hacking Internship</strong>
+  <strong>Author: [Azhar Mansuri], Cybersecurity Intern, Networkwalks (B084D) </strong>
   <br>
   Learning • Practicing • Documenting
 </p>
