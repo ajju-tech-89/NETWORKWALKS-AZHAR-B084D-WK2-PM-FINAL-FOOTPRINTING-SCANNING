@@ -110,22 +110,15 @@ Used Zenmap on Windows to discover active devices within my local lab network.
 ```text
 Week-2-Cybersecurity-Project/
 │
-├── PM1-Website-Footprinting/
-│   ├── Screenshots/
-│   └── Command-Outputs/
-│
-├── PM4-theHarvester/
-│   ├── Screenshots/
-│   └── Command-Outputs/
-│
-├── PM5-Zenmap-Network-Scanning/
-│   ├── Screenshots/
-│   ├── Scan-Results/
-│   └── Network-Topology.pdf
-│
-├── Final-Penetration-Testing-Report/
-│
-└── README.md
+├── Docs
+     |───PM 1.docx
+     |───PM 4.docx
+     |───PM 5 Topology.pdf
+├── Report
+     |───Penetration_Testing_Report_W2-PM
+├── Screenshots
+|
+└─README.md
 ```
 
 ---
