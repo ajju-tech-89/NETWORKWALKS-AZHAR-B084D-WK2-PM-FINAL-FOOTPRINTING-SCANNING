@@ -85,6 +85,21 @@ Used theHarvester to collect publicly available information from different searc
 
 ### Module 3 – Network Scanning with Zenmap (PM5)
 
+### Scan Results (W2-PM5)
+
+**Target:** local Wi-Fi lab network `10.225.224.0/24`
+
+**Command:** `nmap -sn 10.225.224.0/24` (Zenmap profile: Ping scan). The scan covered 256 addresses in 9.46 seconds.
+
+| Question | Answer |
+|---|---|
+| Local IP address and subnet | `10.225.224.134` on `10.225.224.0/24` |
+| Live hosts | 3 (including my own machine) |
+| IP addresses | `10.225.224.18`, `10.225.224.134`, `10.225.224.195` |
+| MAC addresses | `10.225.224.18` : `9E:BD:11:26:74:1D` (Unknown vendor). `10.225.224.195` : `8E:25:7C:5C:92:A6` (Unknown vendor). `10.225.224.134` : `EC-3A-56-33-0D-CA` (my machine) |
+
+`10.225.224.18` is most likely the default gateway of the network (its MAC matches the gateway's IPv6 link-local address shown in `ipconfig`). Both discovered MAC addresses start with `9E` and `8E`, which suggests randomized (private) MAC addresses, so Nmap could not identify the vendor. No port scan was run.
+
 Used Zenmap on Windows to discover active devices within my local lab network.
 
 **Practical Tasks:**
