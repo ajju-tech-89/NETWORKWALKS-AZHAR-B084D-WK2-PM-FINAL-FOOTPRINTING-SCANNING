@@ -117,6 +117,18 @@ Week-2-Cybersecurity-Project/
 ├── Report
      |───Penetration_Testing_Report_W2-PM
 ├── Screenshots
+     |───PM1 Task 1 Whois.png
+     |───PM1 Task 2 What web.png
+     |───PM1 Task 3 NSLOOKUP.png
+     |───PM1 Task 4 CURL.png
+     |───PM1 Task 5 WAFW00F.png
+     |───PM1 Task 6 DNSRECON.png
+     |───PM4 TASK 2 All.png
+     |───PM4 Task 1 Baidu.png
+     |───PM5 IP sacn.png
+     |───PM5 IP.png
+     |───PM5 Topology pdf.png
+     |───PM5 Topology.png
 |
 └─README.md
 ```
